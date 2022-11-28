@@ -18,7 +18,7 @@
 
 This is an open source project that serves as a free alternative to the Linktree website.
 
-This project is based on the repository by [John Emerson](github.com/johnggli).
+This project is based on the repository by [John Emerson](https://github.com/johnggli).
 
 - [Demo](https://turazzi.fr)
 
