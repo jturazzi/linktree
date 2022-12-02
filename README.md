@@ -20,7 +20,7 @@ This is an open source project that serves as a free alternative to the Linktree
 
 This project is based on the repository by [John Emerson](https://github.com/johnggli).
 
-- [Demo](https://jeremy.turazzi.fr)
+- [Demo](https://jtrz.fr)
 
 ## 🚀 Getting started
 
@@ -36,4 +36,4 @@ git clone https://github.com/jturazzi/linktree
 
 ---
 
-Made with ❤️ by Jérémy Turazzi :wave: [Get in touch](https://jeremy.turazzi.fr)
+Made with ❤️ by Jérémy Turazzi :wave: [Get in touch](https://jtrz.fr)
